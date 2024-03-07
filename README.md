@@ -6,3 +6,4 @@
 
 ## Career Goals
 ### To learn how to spell 😏 🤖
+> _**help me help you**_ ~ Jerry Maguire
