@@ -7,3 +7,23 @@
 ## Career Goals
 ### To learn how to spell 😏 🤖
 > _**help me help you**_ ~ Jerry Maguire
+
+please visit [**my site**](https://www.michaellewis.ca)
+
+- blah
+- blah
+- blah
+  - blah
+  - blah
+
+1. Item 1
+   - blah
+   - blah
+2. Item 2
+   - blah
+   - blah
+
+```javascript
+alert('Hi Mom');
+
+```
