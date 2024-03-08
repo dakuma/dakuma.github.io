@@ -16,6 +16,7 @@
 body {
     width: 100%;
     min-height: 700px;
+    padding: 25px 75px;
 }
 header {
     width: 100%;
