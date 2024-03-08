@@ -13,6 +13,12 @@
     padding: 13px 7px;
     border-radius: 12px;
 }
+.hugeText {
+    font-size: 1.67em;
+    font-weight: 700;
+    text-decoration: underline;
+    font-style: italic;
+}
 body {
     width: 100%;
     min-height: 700px;
