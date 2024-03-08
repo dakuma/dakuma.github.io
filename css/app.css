@@ -33,6 +33,9 @@
 .socialIcons {
     margin: 7px 13px;
 }
+.emph {
+    font-style: italic;
+}
 a {
     text-decoration: none;
 }
