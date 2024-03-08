@@ -53,14 +53,14 @@ main {
     background: rgba(255, 255, 255, .13);
 }
     #about {
-        margin-bottom: 7px;
+        padding: 13px 25px;
     }
     #tracks {
-        margin-bottom: 7px;
+        padding: 13px 25px;
         text-align: center;
     }
     #social {
-        margin-bottom: 7px;
+        padding: 13px 25px;
         text-align: center;
     }
 footer {
