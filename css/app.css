@@ -5,7 +5,7 @@
     box-sizing: border-box;
     background: #333;
     color: #fff;
-    font-size: 1.1em;
+    font-size: 1em;
     font-family: "Ubuntu", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -39,6 +39,9 @@
 .emph {
     font-style: italic;
 }
+h1 {
+    margin-top: 23px;
+}
 a {
     text-decoration: none;
 }
@@ -66,16 +69,16 @@ main {
     border-right: 1px solid #222;
 }
     #about {
-        padding: 21px 42px;
+        padding: 29px 42px;
         border-top-left-radius: 12px;
         border-top-right-radius: 12px;
     }
     #tracks {
-        padding: 21px 42px;
+        padding: 29px 42px;
         text-align: center;
     }
     #social {
-        padding: 21px 42px;
+        padding: 29px 42px;
         text-align: center;
         border-bottom-left-radius: 12px;
         border-bottom-right-radius: 12px;
