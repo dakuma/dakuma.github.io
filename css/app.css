@@ -10,9 +10,12 @@
 .red {
     color: #f00;
     background: #222;
-    padding: 5px 7px;
+    padding: 5px 9px;
     border-radius: 12px;
 }
+    .red:hover {
+        color: #fff;
+    }
 .hugeText {
     font-size: 1.67em;
     font-weight: 700;
