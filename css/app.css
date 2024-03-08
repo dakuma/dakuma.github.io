@@ -95,3 +95,17 @@ footer {
     border-bottom-right-radius: 26px;
     padding-right: 67px;
 }
+
+@media screen and (max-width: 1301px) {
+    header {
+        width: 100%;
+        height: 420px;
+        background: url('../assets/thumbnail_67.jpg');
+        background-size: cover;
+        background-position-y: center;
+        background-repeat: no-repeat;
+        border-bottom: 1px solid #222;
+        border-top-left-radius: 26px;
+        border-top-right-radius: 26px;
+    }
+  }
