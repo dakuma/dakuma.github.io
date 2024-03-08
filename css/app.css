@@ -28,6 +28,9 @@
 .socialIcons {
     margin: 7px 13px;
 }
+a {
+    text-decoration: none;
+}
 body {
     width: 100%;
     min-height: 700px;
