@@ -25,6 +25,8 @@ header {
     background-position-y: -200px;
     background-repeat: no-repeat;
     border-bottom: 1px solid #222;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
 }
 main {
     width: 100%;
