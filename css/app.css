@@ -63,16 +63,16 @@ main {
     border-right: 1px solid #222;
 }
     #about {
-        padding: 18px 33px;
+        padding: 21px 42px;
         border-top-left-radius: 12px;
         border-top-right-radius: 12px;
     }
     #tracks {
-        padding: 18px 33px;
+        padding: 21px 42px;
         text-align: center;
     }
     #social {
-        padding: 18px 33px;
+        padding: 21px 42px;
         text-align: center;
         border-bottom-left-radius: 12px;
         border-bottom-right-radius: 12px;
