@@ -1,0 +1,59 @@
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #444;
+  padding: 25px 50px;
+  font-size: 1.6em;
+  font-weight: 500;
+}
+header {
+  width: 100%;
+  height: 500px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border: 3px solid #fff;
+  background: url('../assets/images/headerBkg.png');
+  background-size: cover;
+  background-position: center;
+}
+section {
+  width: 100%;
+  min-height: 300px;
+  padding: 100px 50px;
+  border: 3px solid #fff;
+}
+#aboutSection {
+  background: #fff;
+  color: #333;
+}
+/*
+  #000 - black
+  #f00 - red
+  #0f0 - green
+  #00b - blue
+  #fff - white
+*/
+#careerGoals {
+  background: #222;
+  color: #fff;
+}
+#workSamples {
+  background: #fff;
+  color: #333;
+}
+#contact {
+  background: #222;
+  color: #fff;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+footer {
+  text-align: right;
+  padding-right: 50px;
+  border: 3px solid #fff;
+}
