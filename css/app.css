@@ -45,7 +45,7 @@ section {
   color: #333;
   font-size: 1.2em;
 }
-  #aboutSection > h1 {
+  .fancyHeading {
     font-family: 'Tiny5', sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -62,17 +62,31 @@ section {
 #careerGoals {
   background: #222;
   color: #fff;
+  font-size: 1.2em;
+  padding-left: 100px;
 }
 #workSamples {
   background: #fff;
   color: #333;
+  text-align: center;
 }
+  .thumbnail {
+    width: 20%;
+    border: 3px solid #777;
+    border-radius: 16px;
+    box-shadow: 2x 3px 5px #222;
+  }
 #contact {
   background: #222;
   color: #fff;
+  text-align: center;
   border-bottom-left-radius: 16px;
   border-bottom-right-radius: 16px;
+  font-size: 1.2em;
 }
+  #contact > a:link {
+    color: #fff;
+  }
 footer {
   text-align: right;
   padding-right: 50px;
