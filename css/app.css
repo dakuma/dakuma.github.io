@@ -56,6 +56,8 @@ section {
   height: 750px;
   padding: 0;
   background: #222;
+  color: #fff;
+  font-size: 1.2em;
 }
   #recentTracksLeft {
     width: 750px;
