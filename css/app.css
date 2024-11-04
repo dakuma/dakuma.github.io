@@ -5,9 +5,10 @@
   padding: 0;
   margin: 0;
 }
-.redText {
-  color: #f00;
+.greenText {
+  color: #0f0;
   font-style: italic;
+  font-weight: 600;
 }
 .musicIcon {
   width: 64px;
