@@ -28,7 +28,7 @@ header {
   font-style: normal;
   text-align: center;
   padding-top: 150px;
-  font-size: 3em;
+  font-size: 2.7em;
   color: #fff;
   text-shadow: 2px 2px 7px #333;
 }
@@ -36,13 +36,14 @@ header {
     color: #0f0;
     margin-top: -25px;
     background: rgba(255, 255, 255, .33);
+    font-size: .9em;
   }
   #logo {
     position: absolute;
     z-index: 3;
     left: 75px;
     top: 50px;
-    width: 250px;
+    width: 225px;
   }
 section {
   width: 100%;
