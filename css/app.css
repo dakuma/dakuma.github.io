@@ -27,7 +27,7 @@ header {
   font-weight: 400;
   font-style: normal;
   text-align: center;
-  padding-top: 150px;
+  padding-top: 120px;
   font-size: 2.7em;
   color: #fff;
   text-shadow: 2px 2px 7px #333;
@@ -41,9 +41,9 @@ header {
   #logo {
     position: absolute;
     z-index: 3;
-    left: 75px;
+    left: 90px;
     top: 50px;
-    width: 225px;
+    width: 200px;
   }
 section {
   width: 100%;
@@ -55,6 +55,7 @@ section {
   width: 100%;
   height: 750px;
   padding: 0;
+  background: #222;
 }
   #recentTracksLeft {
     width: 750px;
