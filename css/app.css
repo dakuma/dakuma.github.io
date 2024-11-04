@@ -93,6 +93,7 @@ section {
     width: calc(100% - 1505px);
     float: left;
     padding: 25px 50px;
+    padding-left: 75px;
     font-size: 1em;
   }
     .ytVid {
@@ -100,7 +101,7 @@ section {
       border-radius: 16px;
     }
 #aboutSection {
-  background: #fff;
+  background: #bbb;
   color: #333;
   font-size: 1.2em;
 }
@@ -125,7 +126,7 @@ section {
   padding-left: 100px;
 }
 #workSamples {
-  background: #fff;
+  background: #bbb;
   color: #333;
   text-align: center;
 }
