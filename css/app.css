@@ -1,3 +1,4 @@
+ 
  * {
   padding: 0;
   margin: 0;
@@ -23,15 +24,74 @@
   width: 100%;
   height: 80px;
   background: #eee;
+  text-align: center;
+  padding-top: 20px;
+  border-top: 1px solid #222;
+  border-bottom: 1px solid #222;
  }
+  a {
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #333;
+    margin: 0 21px;
+  }
+  a:hover {
+    color: #00f;
+    text-decoration: underline;
+  }
  main {
   width: 100%;
-  height: 1700px;
+  height: 2100px;
   background: #00f;
  }
+  #about {
+    width: 100%;
+    min-height: 700px;
+    background: linear-gradient(to right, #0a2a88, #59cde9);
+    border-bottom: 1px solid #222;
+    padding: 50px 100px;
+  }
+    #leftAbout {
+      width: 30%;
+      float: left;
+    }
+      #bioPic {
+        border: 4px solid #fff;
+        border-radius: 16px;
+        width: 50%;
+        display: inline;
+      }
+    #rightAbout {
+      width: 70%;
+      float: left;
+      font-size: 1.5em;
+    }
+      #rightAbout > p {
+        margin: 20px 10px;
+      }
+  #skills {
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(to right, #EF9393, #E17DC2, #998EE0, #43ADD0, #8BDEDA);
+    border-bottom: 1px solid #222;
+    padding: 50px 100px;
+  }
+  #contact {
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(to right, #493240, #ff0099);
+    border-bottom: 1px solid #222;
+    padding: 50px 100px;
+  }
  footer {
   width: 100%;
   height: 200px;
-  background: #555;
+  background: #eee;
   margin-bottom: 100px;
+  color: #333;
+  text-align: center;
+  padding-top: 20px;
+  font-size: .9em;
+  font-style: italic;
  }
