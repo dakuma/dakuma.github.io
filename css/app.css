@@ -16,10 +16,10 @@
 }
   .bar {
     width: 80px;
-    height: 16px;
+    height: 14px;
     border-radius: 4px;
-    background: #000;
-    margin: 2px 0;
+    background: #fff;
+    margin-bottom: 4px;
   }
 #menu {
   width: 360px;
