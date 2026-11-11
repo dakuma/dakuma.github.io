@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="js/jquery.js" defer async></script>
+  <script src="js/app.js" defer async></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
@@ -10,6 +12,18 @@
   <title>My Home Online</title>
 </head>
 <body>
+  <div id="mobileNav" onclick="toggleMenu();">
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+  <div id="menu">
+    <a href="#">HOME</a><br> 
+    <a href="#about">ABOUT</a><br> 
+    <a href="#work">WORK</a><br>
+    <a href="#skills">SKILLS</a><br> 
+    <a href="#contact">CONTACT</a>
+  </div>
   <header></header>
   <nav>
     <a href="#">HOME</a> /  
